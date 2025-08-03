@@ -39,6 +39,12 @@
 
 ## 💻 Day 2 HIGHLIGHTS
 
+###🧠 Sessions & Tests:
+English Proficiency Test (9:30 AM – 10:30 AM)
+Maths Proficiency Test (10:30 AM – 11:30 AM)
+
+
+
 
 ## 🚀 What I Learned
 - Importance of version control (Git & GitHub)  
