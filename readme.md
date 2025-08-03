@@ -4,7 +4,7 @@
  🛐 **Shabad Kirtan** – 8:30 AM to 9:30 AM  
   _Venue: College Gurudwara Sahib_
   _recited by Ragi Jatha:_  
-  **"Shabad:Kar Kirpa Apni Bhagti Laye"**
+  **Shabad: "Kar Kirpa Apni Bhagti Laye"**
   - **Chaupai Sahib Paath**  
   - **Anand Sahib Paath**  
     
