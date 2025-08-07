@@ -24,7 +24,7 @@
 ### 👨‍🏫 Guest Speakers and Faculty
 
 * **Prof. Harpreet Kaur Grewal** – HOD, Applied Science
-* * **Prof. Kulwinder Singh Maan** – Head, IT Department
+*  **Prof. Kulwinder Singh Maan** – Head, IT Department
 *  **Dr. Akshit Girdhar** – Assistant Professor, IT Department
 *  **Dr. Sehijpal Singh** – Principal, GNDEC
 * **Sh. Ravinder Garg** – Chief Engineer, Municipal Corporation (Chief Guest)
@@ -38,7 +38,7 @@
 
 ### 🏆 Student & Alumni Speakers
 
-* **Harsimran Singh** – Alumni (Last Batch)
+* **Harsimran Singh** – Alumni 
 * **Sangam Arora** – CSE Topper & Software Engineer
 * **Arshpreet Singh** – IT Topper & Automation Engineer (Airtel)
 
@@ -112,6 +112,9 @@
 - 🗣️ *Interactive English & Communication Skills Lecture:*  
   A lively session where we **introduced ourselves** and practiced essential communication skills  
   > Confidence, clarity, and expression — the first steps to becoming industry-ready!
+
+  <img width="858" height="390" alt="image" src="https://github.com/user-attachments/assets/82f0e624-0999-4195-925f-d43c14749419" />
+
 
 ---
 
