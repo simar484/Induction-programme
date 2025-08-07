@@ -130,6 +130,8 @@
 
 > 💡 A hands-on and friendly start to our coding journey, with relatable explanations from our seniors!
 
+<img width="851" height="433" alt="image" src="https://github.com/user-attachments/assets/c373b59a-d148-4861-b52a-3451f745d2f6" />
+
 
 ### 🧑‍⚕️ Expert Lecture – *Millets: The Superfood*
 
@@ -164,6 +166,9 @@
   - Encouraged us to step forward and serve with pride
 
 > 🇮🇳 *“Discipline is the bridge between goals and accomplishment.”*
+
+<img width="499" height="820" alt="image" src="https://github.com/user-attachments/assets/745cfc16-61dd-44a9-ae18-63d3407d3cd0" />
+
 
 
 ### 🧪 Subject Orientation & PPS
@@ -205,19 +210,23 @@ The **NSS Society Incharge** gave us a practical, heartfelt introduction to:
 - 🎮 Followed by a fun activity – **“Make others laugh”** game  
 > Emphasis on *empathy*, *human connection*, and *positive energy* in daily life
 
-> 🌟 The day balanced academic depth with emotional intelligence and social understanding – a perfect blend!
+> 🌟 The day balanced academic depth with emotional intelligence and social understanding – a perfect blend
 
+---
 
+## 📘 What I Learned
 
+These 7 days gave me a strong start to my college journey. I learned:
 
+- Basics of Physics, Math, and C++ through peer and faculty sessions  
+- How to use platforms like GitHub and Swayam for learning  
+- The value of communication, teamwork, and documentation  
+- Importance of Universal Human Values and mental well-being  
+- Inspiration from experts in fitness, engineering, NCC, and social clubs  
+- How to balance academics with creativity, confidence, and fun
 
+> A great mix of learning, motivation, and self-growth!
 
-## 🚀 What I Learned
-
-* How to reflect learning in structured formats (like this!)
-* Teamwork, speaking confidence, and personal presentation
-* Role of scholarships, ethics and time management
-* Exposure to real-world engineers, scientists and mentors
 
 ## 🎯 My Goals Ahead
 
@@ -229,6 +238,6 @@ The **NSS Society Incharge** gave us a practical, heartfelt introduction to:
 ## 🙏 Thank You
 
 **Thank you for reading!**
-Proud to be a part of the **GNDEC CSE Family** ❤️
+Proud to be a part of the **GNDEC Family** ❤️
 
 > *“Induction isn’t just orientation — it’s our first step into purpose.”*
