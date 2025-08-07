@@ -117,7 +117,6 @@
 
 
 ---
----
 
 ## 🥗 Day 5 – Food for Thought & Code (5th AUGUST)
 
@@ -131,11 +130,9 @@
 
 > 💡 A hands-on and friendly start to our coding journey, with relatable explanations from our seniors!
 
----
 
 ### 🧑‍⚕️ Expert Lecture – *Millets: The Superfood*
 
-- 🏛️ *Venue: College Auditorium*
 - 👩‍⚕️ **Ms. Shaffy Makkar** delivered an expert lecture on:
   - The nutritional importance of **millets**
   - How millets are becoming a sustainable and healthy food choice
@@ -157,7 +154,6 @@
   - **Fitness for Engineers**
   - Staying physically active to boost brain performance and productivity
 
----
 
 ### 🪖 Inspirational Talk by Brigadier P.S. Cheema
 
@@ -169,7 +165,6 @@
 
 > 🇮🇳 *“Discipline is the bridge between goals and accomplishment.”*
 
----
 
 ### 🧪 Subject Orientation & PPS
 
@@ -183,7 +178,6 @@
 > 📚 A day full of wisdom, direction, and a deeper connection with academics and values.
 ....
 
----
 
 ## 📚 Day 7 – Academics & Inner Joy (7th AUGUST)
 
