@@ -117,6 +117,104 @@
 
 
 ---
+---
+
+## 🥗 Day 5 – Food for Thought & Code (5th AUGUST)
+
+### 🤝 Peer-to-Peer Programming Session (PPS)
+
+- The day began with a **Peer-to-Peer class on Programming for Problem Solving**
+- Senior students taught us **the basics of C++**, covering:
+  - Structure of a simple C++ program
+  - Basic syntax, input/output
+  - Use of `#include`, `main()`, variables, and `cout`
+
+> 💡 A hands-on and friendly start to our coding journey, with relatable explanations from our seniors!
+
+---
+
+### 🧑‍⚕️ Expert Lecture – *Millets: The Superfood*
+
+- 🏛️ *Venue: College Auditorium*
+- 👩‍⚕️ **Ms. Shaffy Makkar** delivered an expert lecture on:
+  - The nutritional importance of **millets**
+  - How millets are becoming a sustainable and healthy food choice
+  - Role of engineers in promoting eco-conscious habits
+
+> 🌾 *A great reminder that engineers should also be aware citizens, mindful of health and the environment.*
+
+---
+
+## 🧬 Day 6 – Discipline, Defense & Discovery (6th AUGUST)
+
+### 🎙️ Motivational & Wellness Sessions
+
+- 🧑‍🏫 **Dr. Parminder Singh**, Dean of Student Welfare, addressed us on:
+  - Student life discipline
+  - Importance of responsibility and college code of conduct
+
+- 💪 **Mr. Manpreet Singh** delivered an expert talk on:
+  - **Fitness for Engineers**
+  - Staying physically active to boost brain performance and productivity
+
+---
+
+### 🪖 Inspirational Talk by Brigadier P.S. Cheema
+
+- A highly motivational session by **Brigadier P.S. Cheema**
+- He shared:
+  - His life journey, values of courage and integrity
+  - The **importance of NCC (National Cadet Corps)** in youth development
+  - Encouraged us to step forward and serve with pride
+
+> 🇮🇳 *“Discipline is the bridge between goals and accomplishment.”*
+
+---
+
+### 🧪 Subject Orientation & PPS
+
+- 👨‍🔬 **Prof. Jaspreet Singh** (Physics Department) conducted our **Physics Orientation**
+  - He discussed the **entire syllabus**
+  - Explained real-life applications and importance of physics in engineering
+
+- 💻 **Peer-to-Peer Session** on Programming continued
+  - Seniors helped clarify doubts from previous sessions
+
+> 📚 A day full of wisdom, direction, and a deeper connection with academics and values.
+....
+
+---
+
+## 📚 Day 7 – Academics & Inner Joy (7th AUGUST)
+
+### 🧲 Physics Lecture – Prof. Jaspreet Singh  
+The day began with a conceptually rich session where we were introduced to:  
+- 📘 The **first chapter of Physics**, focusing on foundational concepts  
+- 🔍 **Introduction to the Dell Vector** and its applications  
+> A refreshing start into the world of vectors and directional quantities!
+
+### 📐 Mathematics Lecture – Prof. Sandeep Kaur Gill  
+In this session, we dived into:  
+- 📖 **Introduction to Differential Equations**  
+- ✍️ Understanding their relevance and how they'll play a role in our engineering studies  
+> Logical thinking and analytical skills – key takeaways!
+
+### 🧠 Expert Talk – Dr. Lakhvir Singh Khana (Incharge – CML)  
+Dr. Khana gave us an overview of:  
+- 🧾 The **Central Media Library (CML)**  
+- 🧑‍🏫 Access to **IIT lectures via Swayam/NPTEL** platforms  
+> “Education is evolving – and we must use every opportunity to learn from the best.”
+
+### 🤝 NSS Society Interaction  
+The **NSS Society Incharge** gave us a practical, heartfelt introduction to:  
+- ☮️ **Mind-relaxation session** – Began with a calming **Shabad**  
+- 🎮 Followed by a fun activity – **“Make others laugh”** game  
+> Emphasis on *empathy*, *human connection*, and *positive energy* in daily life
+
+> 🌟 The day balanced academic depth with emotional intelligence and social understanding – a perfect blend!
+
+
+
 
 
 
